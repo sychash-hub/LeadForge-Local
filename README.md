@@ -1,4 +1,4 @@
-# LeadForge Local
+# LeadForge 
 
 A zero-API-key, local-first B2B map lead finder and cold outreach utility built for agencies, freelancers, and web developers targeting local businesses.
 
